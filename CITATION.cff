@@ -1,12 +1,10 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: MY CSV
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
 authors:
-  - family-names: Druskat
-    given-names: Stephan
-    orcid: https://orcid.org/1234-5678-9101-1121
-title: "CSV TEST"
-version: 0.0.1
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.1234
-date-released: 2021-08-11
+  - given-names: Jenny
+    family-names: Doe
+license: CC-BY-4.0
