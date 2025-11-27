@@ -1,10 +1,1 @@
-cff-version: 1.2.0
-title: MY CSV
-message: >-
-  If you use this dataset, please cite it using the metadata
-  from this file.
-type: dataset
-authors:
-  - given-names: Jenny
-    family-names: Doe
-license: CC-BY-4.0
+
