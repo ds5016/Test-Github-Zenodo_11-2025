@@ -1,10 +1,11 @@
 ID_RS,Rohstoff,EP,VerarbIA,ID_VSI,VerarbstufeI,Raum-bezug,Quelle,Berechnung/Annahme
-1,Zucker-rueben,HEP,"9,195",1,Zuckerindustrie,EG,errechnete Größe,Gesamt minus weitere Anteile
+1,Zucker-rueben,HEP,"99999999999999,195",1,Zuckerindustrie,EG,errechnete Größe,Gesamt minus weitere Anteile
 1,Zucker-rueben,HEP,14,4,BioethanolindustrieBY,BY,Bayerischer Agrarbericht 2018/2020 + FNR Statistik Nachwachsende Rohstoffe 2023,Rückgerechnet über Flächen und gewichtet nach MittelDzuBY
 1,Zucker-rueben,HEP,24,7,Biogasanlagen,BY,Krautkremer et al. 2024 (Biogasstudie Bayern),
 1,Zucker-rueben,HEP,425,16,Verluste,BY,Halama et al. 2023 (LfL-BioReSt-Abschlussbericht),Tab. 21
 1,Zucker-rueben,NEP,2,7,Biogasanlagen,BY,Krautkremer et al. 2024 (Biogasstudie Bayern),
 
 1,Zucker-rueben,NEP,999,13,Feldverbleib,A,allgemeine Annahme,vollständiger Verbleib auf dem Feld
+
 
 
